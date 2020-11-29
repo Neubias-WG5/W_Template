@@ -2,7 +2,7 @@
   "name": "",
   "description": "",
   "container-image": {
-    "image": "neubiaswg5/w_",
+    "image": "",
     "type": "singularity"
   },
   "command-line": "python wrapper.py CYTOMINE_HOST CYTOMINE_PUBLIC_KEY CYTOMINE_PRIVATE_KEY CYTOMINE_ID_PROJECT CYTOMINE_ID_SOFTWARE",
